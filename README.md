@@ -81,4 +81,4 @@ Double-click DELETE ALL to clear everything.
 
 📷 Example
 
-![App Screenshot](./screenshot.jpeg)
+![App Screenshot](./screenshot.jpg)
